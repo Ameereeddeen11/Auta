@@ -6,4 +6,6 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(Auta
         main.cpp
         skoda.cpp
-        skoda.h)
+        skoda.h
+        Auto.cpp
+        Auto.h)
